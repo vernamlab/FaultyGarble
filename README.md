@@ -86,10 +86,12 @@ Each fault type affects execution in the following ways:
 If you use this code, please cite the following paper using BibTeX:
 
 ```bibtex
-@article{hashemi2024faultygarble,
+@inproceedings{hashemi2024faultygarble,
   title={FaultyGarble: Fault Attack on Secure Multiparty Neural Network Inference},
   author={Hashemi, Mohammad and Mehta, Dev and Mitard, Kyle and Tajik, Shahin and Ganji, Fatemeh},
-  journal={Cryptology ePrint Archive},
+  proceedings={2024 Workshop on Fault Detection and Tolerance in Cryptography (FDTC)},
+  pages={53--64},
   year={2024}
+  howpublished = {\url{[Online] https://www.computer.org/csdl/proceedings/fdtc/2024/21B9Tb3zbMY}  
 }
 ```
